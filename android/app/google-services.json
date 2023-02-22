@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203049055648",
+    "project_id": "aplikasi-mini-facebook",
+    "storage_bucket": "aplikasi-mini-facebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203049055648:android:7973928087b714521fe0c5",
+        "android_client_info": {
+          "package_name": "com.famuwa.aplikasi_mini_facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203049055648-tkvnruh9qgb22n4nk1js753i15jq61mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GExm1a8mhvQGMON7_X9XTDwybbD6d3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203049055648-tkvnruh9qgb22n4nk1js753i15jq61mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
